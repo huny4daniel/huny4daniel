@@ -3,7 +3,7 @@
 Hi there! I'm **Younghun Huh (huny4daniel)**, a **Junior Java & Android Developer** from **South Korea**, currently living in **Goyang**.  
 I'm passionate about building Mobile applications and continuously improving my development skills.
 
-Learning at ***Tech University of Korea***
+Student at ***Tech University of Korea***
 
 ---
 
@@ -25,6 +25,7 @@ Learning at ***Tech University of Korea***
 
 - Instagram: [[@yh.huh_0429](https://www.instagram.com/yh.huh_0429/)]
 - Email: [huny4daniel@gmail.com]
+- Student Email: [huny4daniel@tukorea.ac.kr]
 
 ---
 
