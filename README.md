@@ -3,7 +3,7 @@
 Hi there! I'm **Younghun Huh (huny4daniel)**, a **Junior Java & Android Developer** from **South Korea**, currently living in **Goyang**.  
 I'm passionate about building Mobile applications and continuously improving my development skills.
 
-***Tech University of Korea***
+Learning at ***Tech University of Korea***
 
 ---
 
