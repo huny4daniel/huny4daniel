@@ -1,7 +1,9 @@
 # 👋 Welcome to my GitHub!
 
-Hi there! I'm **huny4daniel**, a **Junior Java & Android Developer** from **South Korea**, currently living in **Goyang**.  
+Hi there! I'm **Younghun Huh (huny4daniel)**, a **Junior Java & Android Developer** from **South Korea**, currently living in **Goyang**.  
 I'm passionate about building Mobile applications and continuously improving my development skills.
+
+Software Enginner at ***Tech University of Korea***
 
 ---
 
@@ -22,7 +24,8 @@ I'm passionate about building Mobile applications and continuously improving my 
 
 ## 📫 Contact
 
-- Email: [huny4daniel@gmail.com]  
+- Instagram: [[@yh.huh_0429](https://www.instagram.com/yh.huh_0429/)]
+- Email: [huny4daniel@gmail.com]
 
 ---
 
