@@ -10,7 +10,7 @@ Student at ***Tech University of Korea***
 
 ## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,java,py,dart,androidstudio,flutter,spring,gradle,linux,vscode,arduino,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,java,py,dart,androidstudio,flutter,spring,gradle,linux,mysql,vscode)](https://skillicons.dev)
 
 ---
 
