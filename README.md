@@ -17,7 +17,6 @@ Student at ***Tech University of Korea***
 ## 🌱 Currently Learning
 
 - Java Spring (boot), MySQL
-- JavaScript
 - Flutter
 
 ---
