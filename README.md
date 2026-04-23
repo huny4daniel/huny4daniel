@@ -1,21 +1,11 @@
 # 👋 Welcome to my GitHub!
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=huny4daniel&show_icons=true&theme=github_dark_dimmed&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=huny4daniel&show_icons=true&theme=default&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=huny4daniel&show_icons=true&hide_border=true" />
-</picture>
 
 Hi there! I'm **Younghun Huh (huny4daniel)**, a **Junior Java & Flutter Application Developer** 
 from **🇰🇷South Korea**, currently living in **Goyang**.  
 I'm passionate about building Mobile applications and continuously improving my development skills.
 
 Student at ***Tech University of Korea***
+
 ---
 
 ## 💻 Tech Stack
