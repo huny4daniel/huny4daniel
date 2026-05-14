@@ -70,7 +70,7 @@ Student at ***Tech University of Korea***
 ## 🗣️ Languages
 
 - 🇰🇷 Korean (Native)
-- 🇺🇸 English (Advanceed)
+- 🇺🇸 English (Advanced)
 - 🇯🇵 Japanese (Conversational)
 - 🇪🇸 Spanish (Beginner)
 
