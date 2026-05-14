@@ -63,7 +63,16 @@ Student at ***Tech University of Korea***
 
 ## 🌱 Currently Learning
 
-- Java Spring (boot), jsp, react
+- Spring(boot), jsp, cpp, react
+
+---
+
+## 🗣️ Languages
+
+- 🇰🇷 Korean (Native)
+- 🇺🇸 English (Advanceed)
+- 🇯🇵 Japanese (Conversational)
+- 🇪🇸 Spanish (Beginner)
 
 ---
 
