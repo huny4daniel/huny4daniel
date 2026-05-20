@@ -24,6 +24,7 @@ Student at ***Tech University of Korea***
 ### Frameworks & Platforms
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JSP](https://img.shields.io/badge/JSP-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### Databases
