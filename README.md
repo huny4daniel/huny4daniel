@@ -64,7 +64,7 @@ Student at ***Tech University of Korea***
 
 ## 🌱 Currently Learning
 
-- Spring(boot), jsp, cpp, react
+- Spring(boot), react
 
 ---
 
